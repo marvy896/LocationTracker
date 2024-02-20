@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .nav-link:hover {
+    background-color: #555;
+  }
+  
+  .active {
+    font-weight: bold;
+  }
+  
